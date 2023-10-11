@@ -6,4 +6,4 @@ This project aims to determine if the prediction of a YouTube video's content is
 This projects also determines if the number of dislikes has grown or decreased since the removal of the dislike count in November 2021. This uses several regression techniques and statistical testing methods.
 
 <br>
-The report is 94 pages with many graphics and the code at the end. Follow along with the table of contents for precise locating of specific sections.
+The report is 94 pages with many graphics and the code at the end. Follow along with the table of contents for precise navigation of specific sections.
